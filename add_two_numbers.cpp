@@ -18,5 +18,5 @@ struct ListNode * creativeNew(int value){
     return node;
 };
 int main(){
-    
+    printf("Enter the first number: ");
 }
