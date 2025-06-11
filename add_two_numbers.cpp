@@ -17,7 +17,6 @@ struct ListNode * creativeNew(int value){
     node -> Next = NULL;
     return node;
 };
-
-struct ListNode(){
-
-};
+int main(){
+    
+}
