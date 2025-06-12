@@ -19,4 +19,5 @@ struct ListNode * creativeNew(int value){
 };
 int main(){
     printf("Enter the first number: ");
+    printf("Enter the second number: ");
 }
